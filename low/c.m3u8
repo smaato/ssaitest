@@ -17,12 +17,14 @@ https://d14c63magvk61v.cloudfront.net/hls/vid/242/640x360/index74.ts
 https://d14c63magvk61v.cloudfront.net/hls/vid/242/640x360/index75.ts
 #EXTINF:10.0,
 https://d14c63magvk61v.cloudfront.net/hls/vid/242/640x360/index76.ts
+#EXT-X-SPLICEPOINT-SCTE35:/DA9AAAAAAAAAP/wBQb+uYbZqwAnAiVDVUVJAAAKqX//AAEjW4AMEU1EU05CMDAxMTMyMjE5M19ONAAAmXz5JA==
 #EXTINF:10.0,
 https://d14c63magvk61v.cloudfront.net/hls/vid/242/640x360/index77.ts
 #EXTINF:10.0,
 https://d14c63magvk61v.cloudfront.net/hls/vid/242/640x360/index78.ts
 #EXTINF:10.0,
 https://d14c63magvk61v.cloudfront.net/hls/vid/242/640x360/index79.ts
+#EXT-X-SPLICEPOINT-SCTE35:/DA4AAAAAAAAAP/wBQb+tTeaawAiAiBDVUVJAAAKqH+/DBFNRFNOQjAwMTEzMjIxOTJfTjUAAIiGK1s=
 #EXTINF:10.0,
 https://d14c63magvk61v.cloudfront.net/hls/vid/242/640x360/index80.ts
 #EXTINF:10.0,
