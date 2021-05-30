@@ -19,13 +19,11 @@ https://d14c63magvk61v.cloudfront.net/hls/vid/242/640x360/index75.ts
 https://d14c63magvk61v.cloudfront.net/hls/vid/242/640x360/index76.ts
 #EXTINF:10.0,
 https://d14c63magvk61v.cloudfront.net/hls/vid/242/640x360/index77.ts
-#EXT-X-CUE-OUT:DURATION=30
 #EXTINF:10.0,
 https://d14c63magvk61v.cloudfront.net/hls/vid/242/640x360/index78.ts
 #EXTINF:10.0,
 https://d14c63magvk61v.cloudfront.net/hls/vid/242/640x360/index79.ts
 #EXTINF:10.0,
 https://d14c63magvk61v.cloudfront.net/hls/vid/242/640x360/index80.ts
-#EXT-X-CUE-IN
 #EXTINF:10.0,
 https://d14c63magvk61v.cloudfront.net/hls/vid/242/640x360/index81.ts
